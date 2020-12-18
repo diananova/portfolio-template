@@ -2,7 +2,7 @@ title: "Diana Mukhanova"
 email: diananova258@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   CS student at the University of Genoa, graduating in March 2022. MLH Fellow, Explorer track.
-baseurl: "https://diananova.github.io/" 
+baseurl: "/" #"https://diananova.github.io/" 
 url: "/portfolio-template/e" 
 twitter_username: diananova25
 github_username: diananova
